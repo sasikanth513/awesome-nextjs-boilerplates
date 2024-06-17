@@ -1,7 +1,9 @@
 # Awesome Next.JS Boilerplates
 
 > List is sourced from [nextjsboilerplateslist.com](https://www.nextjsboilerplateslist.com/)
+
 [<img src="./opengraph-image.png">](https://www.nextjsboilerplateslist.com/)
+
 ## Premium Boilerplates
  
 
